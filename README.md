@@ -3,5 +3,5 @@ layout: page
 title: "About Me"
 ---
 
-Welcome! Please visit my personal website: https://github.com/haonanzhang-vv/haonanzhang-vv.github.io
+Welcome! Please visit my personal website: [https:haonanzhang-vv.github.io](https://haonanzhang-vv.github.io)
 
