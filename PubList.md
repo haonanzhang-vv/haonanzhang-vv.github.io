@@ -82,8 +82,7 @@ The rapid growth of e-commerce has significantly transformed consumer behavior, 
 The rapid growth of digital shopping channels has prompted many traditional
 retailers to invest in e-commerce websites and mobile apps. While prior literature
 shows that multichannel customers tend to be more valuable, it overlooks how the
-reason for adopting a new channel may shape post-adoption behavior. Using transactionlevel data from a major Brazilian pet supplies retailer, we examine how adoption of
-online shopping—by previously offline-only customers—affects post-adoption spend,
+reason for adopting a new channel may shape post-adoption behavior. Using transactionlevel data from a major Brazilian pet supplies retailer, we examine how adoption of online shopping—by previously offline-only customers—affects post-adoption spend,
 profitability, and channel usage. We study four distinct adoption pathways: organic
 adoption, adoption due to the COVID-19 pandemic, Black Friday promotions, and a
 newly launched loyalty program. We find that although all adopter groups increase
