@@ -87,10 +87,10 @@ profitability, and channel usage. We study four distinct adoption pathways: orga
 adoption, adoption due to the COVID-19 pandemic, Black Friday promotions, and a
 newly launched loyalty program. We find that although all adopter groups increase
 their spending relative to offline-only customers, post-adoption behavior differs based
-on the reason for adoption. (<em>COVID-19 adopters</em>) behave similarly to (<em>organic adopters</em>) in
+on the reason for adoption. <em>COVID-19 adopters</em> behave similarly to <em>organic adopters</em> in
 terms of spending, but show greater offline stickiness consistent with consumer inertia
 and habit theory, yielding higher profits due to higher offline margins. In contrast,
-(<em>promotion-driven adopters</em>) spend less post-adoption due to forward buying and exhibit
+<em>promotion-driven adopters</em> spend less post-adoption due to forward buying and exhibit
 lower profitability. Our findings caution against treating all multichannel customers as
 equal and highlight the importance of incorporating behavioral theories into forecasting
 and targeting strategies. Firms should account for adoption motives when evaluating
