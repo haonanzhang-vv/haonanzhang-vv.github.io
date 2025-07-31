@@ -74,12 +74,28 @@ The rapid growth of e-commerce has significantly transformed consumer behavior, 
 <br>
 
 <div class="paper-status">
-  -- Revise and Resubmit at <strong>Journal of Marketing</strong>
+  -- Under Second Round Review at <strong>Journal of Marketing</strong>
 </div>
 
 <details>
   <summary> 📖 <strong>Abstract</strong></summary>
-We investigate how the adoption of a retailer's digital shopping channels (e-commerce website and/or mobile app) affects the purchase behaviors of consumers who had previously only shopped at the retailer's physical stores. We consider two types of adopters – (a) those who adopted online shopping due to the environmental shock of COVID-19 (<em>covid adopters</em>), and (b) those who adopted online shopping of their own volition without any external stimulus, pre-COVID-19 (<em>organic adopters</em>). We find that both groups of online shopping adopters increase their total spend post-online adoption, and the magnitude of this increase in spend is similar for both groups. However, we uncover significant differences in how the two groups use the online and offline channels post-online-adoption. While both groups slowly shift more of their purchases to online channels, <em>covid adopters</em> do so at a significantly slower rate. These differences in channel share lead to significant differences in the profitability of the two groups, with <em>covid adopters</em> being more profitable than <em>organic adopters</em>. Our findings highlight the need for managers to consider the different reasons for consumers' selection into the adoption of new channels when forecasting the impact on post-adoption purchase behavior and profitability.
+The rapid growth of digital shopping channels has prompted many traditional
+retailers to invest in e-commerce websites and mobile apps. While prior literature
+shows that multichannel customers tend to be more valuable, it overlooks how the
+reason for adopting a new channel may shape post-adoption behavior. Using transactionlevel data from a major Brazilian pet supplies retailer, we examine how adoption of
+online shopping—by previously offline-only customers—affects post-adoption spend,
+profitability, and channel usage. We study four distinct adoption pathways: organic
+adoption, adoption due to the COVID-19 pandemic, Black Friday promotions, and a
+newly launched loyalty program. We find that although all adopter groups increase
+their spending relative to offline-only customers, post-adoption behavior differs based
+on the reason for adoption. (<em>COVID-19 adopters) behave similarly to (<em>organic adopters) in
+terms of spending, but show greater offline stickiness consistent with consumer inertia
+and habit theory, yielding higher profits due to higher offline margins. In contrast,
+(<em>promotion-driven adopters) spend less post-adoption due to forward buying and exhibit
+lower profitability. Our findings caution against treating all multichannel customers as
+equal and highlight the importance of incorporating behavioral theories into forecasting
+and targeting strategies. Firms should account for adoption motives when evaluating
+channel and promotional investments.
 </details>
 
 <span class="paper-title">
