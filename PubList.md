@@ -55,7 +55,7 @@ title: "Research"
 <br>
 
 <div class="paper-status">
-  -- Under Review at <strong>Marketing Science</strong>
+  -- Under Review at <strong>Management Science</strong>
 </div>
 
 <details>
@@ -130,3 +130,5 @@ The video game industry has experienced a wave of disruption as consumers rapidl
   <summary> 📖 <strong>Abstract</strong></summary>
 Just-in-time (JIT) scheduling, increasingly augmented by algorithmic tools, allows service firms to dynamically match labor supply with demand. While effective in reducing labor costs, such systems often generate precarious schedules—particularly in retail and service sectors—raising concerns about employee well-being and long-run firm performance. Using granular shift-level data covering over 2.3 million hours worked by 2,400+ frontline employees over three years at a national casual dining chain, we examine how scheduling quality – along three dimensions: predictability (advance notice), consistency (temporal stability), and sufficiency (adequacy of hours) – affects worker turnover. Leveraging a Cox proportional hazards model with an instrumental variables approach, we find that: (1) a 10 p.p. increase in real-time shift additions (with no advance notice) raises turnover risk by 7.1%, while additions with short (two-day) notice have no significant effect; (2) variability in shift timing increases attrition, but volatility in weekly hours does not; and (3) each additional weekly hour worked reduces turnover risk by 2.3%. These results highlight the hidden costs of just-in-time scheduling that prioritizes flexibility over schedule quality. Our findings offer actionable insights for firms seeking to improve workforce stability and contribute empirical evidence to ongoing policy debates on fair scheduling practices.
 </details>
+
+
