@@ -55,7 +55,7 @@ title: "Research"
 <br>
 
 <div class="paper-status">
-  -- Under Review at <strong>Management Science</strong>
+  -- Major Revision at <strong>Management Science</strong>
 </div>
 
 <details>
@@ -66,7 +66,7 @@ The rapid growth of e-commerce has significantly transformed consumer behavior, 
 ## Working Papers
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4747756" class="paper-title">
-  Channel Choice and Customer Value
+  Channel Adoption Pathways and Post-Adoption Behavior
 </a>
 <span class="author-name">
   &nbsp; with Shirsho&nbsp;Biswas and Hema&nbsp;Yoganarasimhan
@@ -74,7 +74,7 @@ The rapid growth of e-commerce has significantly transformed consumer behavior, 
 <br>
 
 <div class="paper-status">
-  -- Invited for Resubmission to <strong>Journal of Marketing</strong>
+  -- Under Review (After Resubmission) at the <strong>Journal of Marketing</strong>
 </div>
 
 <details>
