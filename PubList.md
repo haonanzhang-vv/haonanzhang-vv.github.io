@@ -74,7 +74,7 @@ The rapid growth of e-commerce has significantly transformed consumer behavior, 
 <br>
 
 <div class="paper-status">
-  -- Under Review (After Resubmission) at the <strong>Journal of Marketing</strong>
+  -- Major Revision at the <strong>Journal of Marketing</strong>
 </div>
 
 <details>
