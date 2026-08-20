@@ -63,7 +63,7 @@ title: "Research"
 The rapid growth of e-commerce has significantly transformed consumer behavior, raising questions about how the adoption of online shopping influences offline shopping. This paper investigates whether consumers who adopt online shopping with a retailer become more price sensitive in their subsequent offline purchases with the same retailer. Using transaction-level data from a large Brazilian pet supplies retailer operating both online and offline channels, we compare “adopters” – customers who began shopping online after a period of offline-only purchasing – with “non-adopters” who remained offline-only. We estimate a discrete choice logit model with individual-level heterogeneity, using a novel algorithm to handle high-dimensional fixed effects and address price endogeneity. We apply a staggered difference-in-differences approach to estimate the Average Treatment Effect on the Treated (ATT). We find that offline price sensitivity increases significantly post-online adoption in three of four product categories, particularly in low-switching-cost items like pet hygiene. Counterfactual pricing simulations show that incorporating these behavioral spillovers into pricing strategies can increase firm profits by up to 4.1%. These results underscore the importance of recognizing cross-channel effects in consumer behavior and contribute to the literature on pricing and multichannel retailing by identifying online adoption as a key driver of offline price sensitivity.
 </details>
 
-## Working Papers
+## Publication
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4747756" class="paper-title">
   Channel Adoption Pathways and Post-Adoption Behavior
@@ -74,7 +74,7 @@ The rapid growth of e-commerce has significantly transformed consumer behavior, 
 <br>
 
 <div class="paper-status">
-  -- Major Revision at the <strong>Journal of Marketing</strong>
+  -- Journal of Marketing</strong>
 </div>
 
 <details>
@@ -97,6 +97,8 @@ and targeting strategies. Firms should account for adoption motives when evaluat
 channel and promotional investments.
 </details>
 
+## Working Papers
+
 <span class="paper-title">
   Content and Pricing Strategies for Digital Video Games
 </span>
@@ -114,16 +116,16 @@ channel and promotional investments.
 The video game industry has experienced a wave of disruption as consumers rapidly shift to acquiring and consuming content through digital channels. Incumbent game publishers have struggled to adapt their content and pricing strategies to shifting consumption patterns and increased competition from low-cost independent suppliers. Recently, game publishers have pursued new business models that feature downloadable content (DLC) services offered in conjunction with or as a replacement for traditional physical media. While service-based models can potentially extract additional surplus from the market by allowing for more customized content bundles and pricing than with physically distributed media, exploiting these opportunities poses a challenge to firms who must attempt to optimize their offerings over a formidably complex decision space. In this paper, we develop a structural framework to facilitate the recovery of consumer preferences for game content and the optimization of firm content/price strategies. Our approach is to leverage rich covariation in observed content consumption and DLC service subscriptions to infer consumer content valuations and price sensitivities. We devise a joint model of video game activity and demand for downloadable content, where consumers sequentially make (discrete) DLC subscription choices followed by (continuous) choices of how much to play. Our model accounts for forward-looking consumer expectations about declining content prices and attendant concerns for dynamic selection bias in our demand estimates. We document evidence of heterogeneous preferences for content and significant effects of DLC availability on game usage. Our counterfactual experiments suggest that compressing the DLC release cycle and moving to a recurring fee structure are both viable ways to increase revenues.
 </details>
 
-<span class="paper-title">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4747756" class="paper-title">
   The Hidden Costs of Flexibility: JIT Scheduling and Turnover in a U.S. Restaurant Chain
-</span>
+</a>
 <span class="author-name">
   &nbsp; with Qiuping&nbsp;Yu
 </span>
 <br>
 
 <div class="paper-status">
-  -- Working Paper
+  -- Under Review at <strong>Management Science</strong>
 </div>
 
 <details>
